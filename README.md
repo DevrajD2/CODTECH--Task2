@@ -9,6 +9,8 @@ Mentor: NEELA SANTHOSH KUMAR
 
 # Project: Library Management System with Data Science
 
+![P2](https://github.com/user-attachments/assets/ccabe18a-4baf-4968-bfe8-6604eb7f0fc7)
+
 # Objective:
 To explore unsupervised learning techniques by performing a comprehensive analysis on a dataset, specifically focusing on different clustering algorithms. The goal is to understand the differences between the clustering techniques, assess their performance on the dataset, and gain insights into the underlying structure of the data.
 
